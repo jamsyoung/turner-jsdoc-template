@@ -1,6 +1,10 @@
 # Changelog
 
 
+## 0.1.2
+- Update git path in package.json
+
+
 ## 0.1.1
 - Add package.json - turns out that is important for npm dependencies
 
