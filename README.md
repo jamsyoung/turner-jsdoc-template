@@ -3,9 +3,16 @@ This is a custom template for JSDoc.  It is a modified version of the default
 template that comes with jsdoc-3.3.0-alpha13 to fit my needs.  This is free to
 use and open for community input.  Feel free to create issues and pull requests.
 
+
+## How to use on the command line
+```bash
+$ jsdoc some/javascript.js -t path/to/turner-jsdoc-template/turner
+```
+
+
 ## How to use as a node dependency
 In your projects package.json file add a script and a dependency.
- 
+
 ```json
 "script": {
     "generate-docs": "node_modules/.bin/jsdoc --configure .jsdoc-conf.json --verbose"
