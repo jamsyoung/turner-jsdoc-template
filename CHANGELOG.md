@@ -1,6 +1,11 @@
 # Changelog
 
 
+## 0.1.5
+- More padding changes - turns out serving from file:/// does make a differnece
+  in how CSS displays
+
+
 ## 0.1.4
 - [`f5e503b`][f5e503b] [#2][2] Fix scrollbar issue with code blocks
 
