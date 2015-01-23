@@ -19,7 +19,7 @@ In your projects package.json file add a script and a dependency.
 },
 "devDependencies": {
     "jsdoc": "3.3.0-alpha13",
-    "turner-jsdoc-template": "git+https://github.com/jamsyoung/turner-jsdoc-template.git#0.1.2"
+    "turner-jsdoc-template": "git+https://github.com/jamsyoung/turner-jsdoc-template.git#0.1.3"
 }
 ```
 

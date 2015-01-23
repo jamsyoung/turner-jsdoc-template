@@ -1,6 +1,10 @@
 # Changelog
 
 
+## 0.1.3
+- Add MIT License
+
+
 ## 0.1.2
 - Update git path in package.json
 
@@ -21,3 +25,4 @@
 
 
 [default-template]: https://github.com/jsdoc3/jsdoc/tree/master/templates/default
+
