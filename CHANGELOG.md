@@ -2,7 +2,7 @@
 
 
 ## 0.1.4
-- [`f5e503b`] #2 Fix scrollbar issue with code blocks
+- [`f5e503b`][f5e503b] [#2][2] Fix scrollbar issue with code blocks
 
 
 ## 0.1.3
@@ -29,4 +29,10 @@
 
 
 [default-template]: https://github.com/jsdoc3/jsdoc/tree/master/templates/default
+
+
+
+
+[2]: https://github.com/jamsyoung/turner-jsdoc-template/issues/2
+[f5e503b]: https://github.com/jamsyoung/turner-jsdoc-template/commit/f5e503b047c06fbeff8fc9098f51930d7d780193
 
