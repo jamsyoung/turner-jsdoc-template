@@ -1,6 +1,9 @@
 # Changelog
 
 
+## 0.1.1
+- Add package.json - turns out that is important for npm dependencies
+
 
 ## 0.1.0
 - Hide the Source link (temporary)
