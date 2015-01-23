@@ -1,6 +1,10 @@
 # Changelog
 
 
+## 0.1.4
+- [`f5e503b`] #2 Fix scrollbar issue with code blocks
+
+
 ## 0.1.3
 - Add MIT License
 
